@@ -1,0 +1,19 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.card{
+    border: none;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.nav-link{
+    font-weight: 900;
+    color: rgb(24, 24, 82);
+}
+.navbar-brand{
+    font-weight: 100;
+    color: rgb(24, 24, 82);
+}
+.navbar{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
