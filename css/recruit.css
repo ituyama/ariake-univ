@@ -1,10 +1,11 @@
+
 body{
     font-family: 'Noto Sans JP', sans-serif;
     background: whitesmoke;
 }
 .card{
     border: none;
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
 }
 
 .nav-link{
@@ -29,7 +30,7 @@ body{
 }
 .jumbotron{
     background-image: url(../img/backs.png);
-    height: 500px;
+    height: 200px;
 }
 .navbar-nav{
     text-align: left;
@@ -76,21 +77,6 @@ body{
     text-align: center;
 }
 .card{
-    border-bottom: 10px solid turquoise ;
-    border-top: 10px solid turquoise ;
-    margin: 20px;
-}
-.main{
-  margin-top: 100px;
-}
-.card:hover{
-background: whitesmoke;
-
-box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
-    
-}
-
-.card{
 
     border: 2px solid black;
     margin: 20px;
@@ -112,9 +98,5 @@ background: whitesmoke;
 
 }
 .card-img-top,img{
-    border-radius: 18px;
-}
-.backs{
-    background: rgb(0, 97, 136);
-    box-shadow: rgba(240, 46, 170, 1) 5px 5px, rgba(240, 46, 170, 1) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+    border-radius: 18px 18px 0px;
 }
