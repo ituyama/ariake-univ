@@ -24,7 +24,7 @@ body{
 .navbar{
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
   
-    border-bottom: 10px solid #0071bc ;
+    border-bottom: 2px solid black ;
     background: whitesmoke;
 }
 .jumbotron{
@@ -117,4 +117,13 @@ background: whitesmoke;
 .backs{
     background: rgb(0, 97, 136);
     box-shadow: rgba(240, 46, 170, 1) 5px 5px, rgba(240, 46, 170, 1) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+.inesko{
+    position: fixed;
+    z-index: 2;
+    width: 100px;
+    right: 10px;
+    bottom: 10px;
+
+
 }
